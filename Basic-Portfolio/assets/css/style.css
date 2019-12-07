@@ -1,0 +1,78 @@
+body {
+  background: url("https://www.toptal.com/designers/subtlepatterns/patterns/ripples.png");
+}
+
+
+
+#h1 {
+  font-family:'Georgia', Times, Times New Roman, serif;
+  background-color: #4aaaa5;
+}
+
+#masthead {
+  position: fixed;
+  z-index: 99;
+  width: 100%;
+  margin: 0 0 30px;
+  overflow: auto;
+  color: #fff;
+  background: #fff;
+  border-bottom: 2px solid #ccc;
+}
+
+#logotag {
+  float: left;
+  width: 250px;
+  height: 90px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 90px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  background: #4aaaa5;
+}
+
+nav {
+  float: right;
+  margin-top: 25px;
+}
+
+footer {
+  padding: 30px;
+  font-size: 12px;
+  color: #fff;
+  color: #ccc;
+  text-align: center;
+  background: #666666;
+  border-top: 8px solid #4aaaa5;
+  height: 50px;
+}
+
+#mainbackground {
+  padding-top: 130px;
+  height: 600px;
+}
+
+#sectioncontent {
+  width: 100%;
+  max-width: 960px;
+  padding: 30px;
+  margin: 0 0 40px;
+  background: #fff;
+  border: 2px solid #cccccc;
+  width: 600px;
+}
+
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  
+}
+
